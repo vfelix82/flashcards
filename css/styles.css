@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+}
+
+h2 {
+  text-align: center;
+  font-size: 17px;
+
+}
+
+p {
+  display: none;
+  margin-top: 2cm;
+  height: 316px;
+  width: 250px;
+}
+
+.backofcardimage {
+  height: 400px;
+  width: 250px;
+}
